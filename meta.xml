@@ -1,0 +1,26 @@
+<meta>
+	<info author="Cr4zyPi3t" version="1.1" type="gamemode" name="Pursuit" />
+	<min_mta_version client="1.4.0" server="1.4.0" />
+	<include resource="realdriveby"/>
+	<include resource="heligrab"/>
+	<include resource="abseil"/>
+	<include resource="stinger"/>
+	<include resource="lockvehicles"/>
+	<include resource="maximap"/>
+	<include resource="policelights"/>
+	<include resource="reload"/>
+	<config src="help.xml" type="client"/>
+	<map src="map/pursuit.map" />
+	<file src="pictures/logo.png"/>
+	<file src="pictures/logo2.png"/>
+	<script src="spawn.lua" type="server"/>
+	<script src="playerblips.lua" type="server"/>
+	<script src="nametag.lua" type="server"/>
+	<script src="gui.lua" type="client"/>
+	<script src="render.lua" type="client"/>
+	<script src="admin.lua" type="client"/>
+	<script src="heli.lua" type="server"/>
+	<script src="win.lua" type="server"/>
+	<!--<script src="activity.lua" type="server"/>-->
+	<script src="ea.lua" type="server"/>
+</meta>

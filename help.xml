@@ -1,0 +1,47 @@
+<help popup="no">
+	Pursuit 1.0.2 by Cr4zyPi3t
+	
+	Regeln: 
+			- Die Cops müssen einen ihnen unbekannten Gangster töten, der allerdings von seinen Handlangern beschützt wird, zB durch Beschuss der Cops oder Täuschung.
+			- Wenn der Gangster nach 10 Minuten immer noch lebt, gewinnen die Handlanger und "der Gangster". Sollte er innerhalb dieser 10 Minuten sterben, gewinnt die Polizei.
+			- Gangster dürfen keine Polizeifahrzeuge benutzen, umgekehrt geht es aber.
+			- Die Gangster haben als Ausgleich für die schlechtere Primärwaffe 2 Sekundärwaffen und erheblich mehr Munition, insbesondere "der Gangster".
+			- Die Polizisten können aus den LSPD Autos, dem Police Ranger sowie dem Enforcer Nagelbänder abwerfen. Polizisten können Nagelbänder auch unbeschadet überqueren.
+			- Wer stirbt, muss für den Rest der Runde zuschauen, es gibt keinen Respawn.
+			- Alle zur Verfügung gestellten Autos dürfen und sollten benutzt werden.
+	
+	Nützliche Hotkeys:
+			- "M" öffnet eine taktische Map (diese ersetzt die Standardmap auf "F11")
+			- "L" aktiviert an den meisten Polizeifahrzeugen extra Blinklichter
+			- "R" lädt eure Waffe nach
+			- "X" wirft Nagelbänder aus bestimmten Polizeifahrzeugen ab
+			- "H" ganz kurz drücken aktiviert das Martinhorn und Blaulicht an Polizeifahrzeugen bzw. den Suchscheinwerfer am Helikopter
+			- "B" dient zum Abseilen aus dem Helikopter (ihr müsst dafür aber IM Heli sitzen)
+			- "K" dient dazu, sich auf die Kufe des Helikopters zu setzen (immer nur 1 Spieler pro Helikopter). "K" nochmals zum wieder abspringen drücken
+			- "Springen" in der Nähe einer Helikopterkufe zum Festhalten an der Kufe und somit am Heli zu hängen
+			- "Löschen" um wieder von der Kufe abzuspringen, wenn man sich daran festhält. Man springt jedoch automatisch ab, wenn man nah genug am Boden ist.
+			- "Rechte Maus" dient zum schiessen aus dem Auto, Waffenwechsel im Auto mit "q" und "e"
+			- "F1" öffnet / schließt das Auswahlmenü
+			- "F2" öffnet / schließt das Adminmenü. Nur für Admins zugänglich
+	
+	Bekannte Bugs:
+			- Auswahlmenü geht auf wenn Spieler stirbt
+			- Bugs bitte so schnell wie möglich melden!
+	
+	Viel Spass beim Spielen!
+	
+	Credits:
+		Vielen Dank an "MavKev" und "Tobster" für das testen. Ohne euch wäre ich nicht so weit gekommen :)
+		Kein Dank an Alex aka "19Xandi97" weil er sich konsequent geweigert hat zu testen, und lieber Just Cause zum 3000sten Mal durchgespielt hat :D
+		
+		Resources:
+		
+		Reload: Created by mf7m
+		RealDriveBy: Created by Taliban
+		Heligrab: Created by R3mp
+		Abseil: Created by Dragon
+		Stinger: originally created by Flame, completly rewritten by Cr4zyPi3t
+		Lockvehicles: Created by Ninguem[ATZ], slightly modified by Cr4zyPi3t
+		Maximap: Created by Gamesnert & scarface1994, slightly modified by Cr4zyPi3t
+		Policelights: Created by MrMuLtiVaN, slightly modified by Cr4zyPi3t
+</help>
